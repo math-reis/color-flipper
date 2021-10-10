@@ -1,6 +1,6 @@
 # Color Flipper
 
-A web application that allows you to generate random colors.
+A web application that allows you to generate random colours.
 
 ## Toolkit
 
